@@ -1,0 +1,2 @@
+# AI-practicals
+College practicals 
